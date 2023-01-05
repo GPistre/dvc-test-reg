@@ -1,0 +1,4 @@
+outs:
+- md5: 63188432302f3a6e8c9e9c500ff27c8a
+  size: 70366
+  path: titanic_full.csv
